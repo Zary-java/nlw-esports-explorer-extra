@@ -37,7 +37,7 @@ header div {
     padding: 4px;
 
     transition: transform .3s;
-    animation: fromTop .7s ;
+    animation: fromTop .7s
 }
 
 header div:hover {
